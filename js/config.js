@@ -1,10 +1,10 @@
 //organisation details
 //https://api.github.com/repos/github/rest-api-description/contributors
-const orgname = "Your Organisation";
-const message ="Your Tagline !"
+const orgname = "IETE BIT Mesra";
+const message ="Let the hacking the begin !"
 const logo_url = 'img/iete.jpg';  //your logo url  -> img/filename.extension
-const github_username ="github"   //your username
-const github_reponame = "rest-api-description"; //your reponame
-const linkedin = "mayukh-pankaj"    // your linkedin Username
-const instagram ="may.code"     //your Insta Id
-const facebook = "maycode"      //your Insta id
+const github_username ="ietebitmesra"   //your username
+const github_reponame = "ietebitmesra.github.io"; //your reponame
+const linkedin = "iete-bit-mesra"    // your linkedin Username
+const instagram ="iete_bitmesra"     //your Insta Id
+const facebook = "ietebitm"      //your Insta id
