@@ -3,7 +3,7 @@ Create your Hacktoberfest organiser page in seconds. fork change &amp;  change c
 Voila you have now your organisation landing page. Track contribution stats and many more ..
 
 
-[Preview Website](https://mayukhpankaj.github.io/Hacktoberfest-Organiser-Page/)
+[Preview Website](https://mayukhpankaj.github.io/IETE-hacktoberfest/)
 
 ![preview](https://github.com/mayukhpankaj/Hacktoberfest-Organiser-Page/blob/main/preview.webm)
 
